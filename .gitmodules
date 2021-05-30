@@ -4,3 +4,6 @@
 [submodule "TypeProvider"]
 	path = TypeProvider
 	url = https://github.com/DavenaHack/SeeSharper.TypeProvider.git
+[submodule "TypeResolver"]
+	path = TypeResolver
+	url = https://github.com/DavenaHack/SeeSharper.TypeResolver.git
