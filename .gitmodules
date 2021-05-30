@@ -1,3 +1,6 @@
 [submodule "Reflection"]
 	path = Reflection
 	url = https://github.com/DavenaHack/SeeSharper.Reflection.git
+[submodule "TypeProvider"]
+	path = TypeProvider
+	url = https://github.com/DavenaHack/SeeSharper.TypeProvider.git
