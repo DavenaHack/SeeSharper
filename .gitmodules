@@ -7,3 +7,6 @@
 [submodule "TypeResolver"]
 	path = TypeResolver
 	url = https://github.com/DavenaHack/SeeSharper.TypeResolver.git
+[submodule "Instantiation"]
+	path = Instantiation
+	url = https://github.com/DavenaHack/SeeSharper.Instantiation.git
