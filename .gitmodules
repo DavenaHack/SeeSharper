@@ -10,3 +10,6 @@
 [submodule "Instantiation"]
 	path = Instantiation
 	url = https://github.com/DavenaHack/SeeSharper.Instantiation.git
+[submodule "DependencyInjection"]
+	path = DependencyInjection
+	url = https://github.com/DavenaHack/SeeSharper.DependencyInjection.git
