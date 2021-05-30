@@ -43,7 +43,7 @@ foreach($Project in (Get-ChildItem $SearchPath *.csproj -Recurse)) {
         Write-Debug "Skip $($project.BaseName) because it isn't a library"
         continue
     }
-    Write-Host "[$($Projects.Count)]: $($Project.BaseName)"
+    Write-Host "[$($Projects.Count)]: $($Project.BaseName) - $($Project.FullName)"
     $Projects += $Project
 }
 Write-Host "[A]: All"
