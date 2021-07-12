@@ -9,4 +9,4 @@
 * [TypeResolver](https://github.com/DavenaHack/SeeSharper.TypeResolver)
 
 ## License
-*SeeSharper* is under the [MIT license](https://github.com/DavenaHack/SeeSharper.TypeProvider/blob/master/LICENSE).
+*SeeSharper* is under the [MIT license](https://github.com/DavenaHack/SeeSharper/blob/master/LICENSE).
