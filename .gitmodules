@@ -1,3 +1,11 @@
+[submodule "DependencyInjection"]
+	path = DependencyInjection
+	url = https://github.com/DavenaHack/SeeSharper.DependencyInjection.git
+	branch = master
+[submodule "Instantiation"]
+	path = Instantiation
+	url = https://github.com/DavenaHack/SeeSharper.Instantiation.git
+	branch = master
 [submodule "Reflection"]
 	path = Reflection
 	url = https://github.com/DavenaHack/SeeSharper.Reflection.git
@@ -9,9 +17,6 @@
 [submodule "TypeResolver"]
 	path = TypeResolver
 	url = https://github.com/DavenaHack/SeeSharper.TypeResolver.git
-[submodule "Instantiation"]
-	path = Instantiation
-	url = https://github.com/DavenaHack/SeeSharper.Instantiation.git
-[submodule "DependencyInjection"]
-	path = DependencyInjection
-	url = https://github.com/DavenaHack/SeeSharper.DependencyInjection.git
+	branch = master
+[submodule]
+	update = --init --recursive
