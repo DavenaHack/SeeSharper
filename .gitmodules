@@ -1,3 +1,7 @@
+[submodule "Async"]
+	path = Async
+	url = https://github.com/DavenaHack/SeeSharper.Async.git
+	branch = master
 [submodule "DependencyInjection"]
 	path = DependencyInjection
 	url = https://github.com/DavenaHack/SeeSharper.DependencyInjection.git
@@ -5,6 +9,14 @@
 [submodule "Instantiation"]
 	path = Instantiation
 	url = https://github.com/DavenaHack/SeeSharper.Instantiation.git
+	branch = master
+[submodule "IO"]
+	path = IO
+	url = https://github.com/DavenaHack/SeeSharper.IO.git
+	branch = master
+[submodule "Meta"]
+	path = Meta
+	url = https://github.com/DavenaHack/SeeSharper.Meta.git
 	branch = master
 [submodule "Reflection"]
 	path = Reflection
